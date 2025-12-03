@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ibn-coulibaly
 - 👀 I’m interested in Java coding , Devops environment .
 - 🌱 I’m currently working at NOKIA France .
--    I start teaching Java (Web services and REST services) at university Paris 13. 
 - 💞️ I’m looking to collaborate on all inovations domaines 
 - 📫 How to reach me coulibalyismael1@gmail.com
 
